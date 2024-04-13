@@ -1,5 +1,6 @@
 -- ✨ Roblox LUA Scripter & Developer. 
 -- 🌆 Around 4 years of experience in scripting
+-- 🇵🇭 Philippines Based
 -- 💸 Modes of payment: GCash & Robux
 <!---
 Noblefrix/Noblefrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
